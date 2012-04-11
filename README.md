@@ -1,6 +1,13 @@
+# Need support for higher version of Rails. I am trying to add it.
+#
+
+#Original author  mojomaze
+
 # ExtjsScaffold
 
 Rails 3.1 Scaffold generator for Extjs 4
+
+
 
 ## Usage
 
